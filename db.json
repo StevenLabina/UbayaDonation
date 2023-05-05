@@ -2,8 +2,11 @@
   "posts": [
     {
       "id": 1,
+      "totalTerkumpul":15000000,
       "target":30000000,
-      "title": "anak yatim piatu"
+      "title": "anak yatim piatu",
+      "keterangan":"lorem ipsum",
+      "image":"https://ppid.jemberkab.go.id/storage/berita/1660098529-santunan-anak-yatim-piatu-memperingati-1-muharam-1444-h-kelurahan-sumbersari.jpeg"
     }
   ],
   "profile": {
