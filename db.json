@@ -2,7 +2,8 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "target":30000000,
+      "title": "anak yatim piatu"
     }
   ],
   "profile": {
