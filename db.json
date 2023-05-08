@@ -9,7 +9,16 @@
       "image":"https://ppid.jemberkab.go.id/storage/berita/1660098529-santunan-anak-yatim-piatu-memperingati-1-muharam-1444-h-kelurahan-sumbersari.jpeg"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "profile":[ 
+    {
+       "name": "typicode"
+    }
+  ],
+  "accounts":[
+    {
+       "username":"steven",
+       "password":"steven"
+    }
+  ]
+    
 }
