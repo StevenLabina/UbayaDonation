@@ -4,9 +4,25 @@
       "id": 1,
       "totalTerkumpul":15000000,
       "target":30000000,
-      "title": "anak yatim piatu",
+      "title": "Peduli Anak Yatim Piatu",
       "keterangan":"lorem ipsum",
       "image":"https://ppid.jemberkab.go.id/storage/berita/1660098529-santunan-anak-yatim-piatu-memperingati-1-muharam-1444-h-kelurahan-sumbersari.jpeg"
+    },
+    {
+      "id": 2,
+      "totalTerkumpul":25000000,
+      "target":50000000,
+      "title": "Solidaritas Pejuang Kanker",
+      "keterangan":"lorem ipsum",
+      "image":"https://static.honestdocs.id/system/blog_articles/main_hero_images/000/008/712/original/Jenis_Kanker_pada_Anak.jpg"
+    },
+    {
+      "id": 3,
+      "totalTerkumpul":45000000,
+      "target":600000000,
+      "title": "Peduli Kebakaran Hutan",
+      "keterangan":"lorem ipsum",
+      "image":"https://cdn.betahita.id/5/7/8/4/5784.jpg"
     }
   ],
   "profile":[ 
