@@ -42,10 +42,24 @@
       "namaBerita":"Banjir dan tanah longsor mengepung Ciamis",
       "imageBerita":"https://awsimages.detik.net.id/community/media/visual/2021/09/26/longsor-di-ciamis_169.jpeg?w=1200"
     },
-    {
+   {
       "idBerita":"2",
       "namaBerita":"Meningkatnya Covid 19 varian Arcturus ",
       "imageBerita":"https://www.pekanbaru.go.id/berkas_file/news/15082022/23674-news-kasus-covid-19-menin.jpeg"
+    }
+  ],
+  "histories":[
+    {
+      "idHistories":"1",
+      "namaBerita":"Anda telah melakukan donasi sebesar 20000",
+    },
+    {
+      "idHistories":"2",
+      "namaBerita":"Anda telah melakukan donasi sebesar 150000",
+    },
+    {
+      "idHistories":"3",
+      "namaBerita":"Anda telah melakukan donasi sebesar 50000",
     }
   ]
     
