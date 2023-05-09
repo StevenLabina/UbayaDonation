@@ -35,5 +35,25 @@
        "username":"steven",
        "password":"steven"
     }
+  ], 
+  "histories":[
+    {
+       "idHistory":1,
+       "namaHistory":"Anda telah melakukan donasi sebesar Rp.20000",
+       "tanggal":"3 Januari 2023",
+       "namaDonasiH": "Peduli Kanker Darah"
+    },
+    {
+       "idHistory":2,
+       "namaHistory":"Anda telah melakukan donasi sebesar Rp.50000",
+       "tanggal":"15 Maret 2023",
+       "namaDonasiH":"Peduli Penderita Penyakit Jantung"
+    },
+    {
+        "idHistory":3,
+        "namaHistory":"Anda telah melakukan donasi sebesar Rp.150000",
+        "tanggal":"24 Maret 2023",
+        "namaDonasiH":"Dana Sumbangan Panti Jompo"
+    }
   ] 
 }
