@@ -25,28 +25,31 @@
       "image":"https://cdn.betahita.id/5/7/8/4/5784.jpg"
     }
   ],
+  
   "profile":[ 
     {
        "name": "typicode"
     }
   ],
+  
   "accounts":[
     {
        "username":"steven",
        "password":"steven"
     }
   ], 
+  
   "news":[
     {
        "idBerita":1,
        "namaBerita":"Bencana alam tsunami Ciamis",
-       "imageBerita":"https://awsimages.detik.net.id/customthumb/2008/07/19/10/hancur-dalem.jpg?w=700&q=90",
+       "imageBerita":"https://awsimages.detik.net.id/customthumb/2008/07/19/10/hancur-dalem.jpg?w=700&q=90"
       
     },
     {
        "idBerita":2,
        "namaBerita":"Meningkatnya kasus covid-19 varian baru",
-       "imageBerita":"https://www.pekanbaru.go.id/berkas_file/news/15082022/23674-news-kasus-covid-19-menin.jpeg",
+       "imageBerita":"https://www.pekanbaru.go.id/berkas_file/news/15082022/23674-news-kasus-covid-19-menin.jpeg"
       
     },
     {
@@ -56,6 +59,7 @@
       
     }
   ],
+  
    "histories":[
     {
        "idHistory":1,
