@@ -43,18 +43,24 @@
     {
        "idBerita":1,
        "namaBerita":"Bencana alam tsunami Ciamis",
+       "deskripsiNews":"Bencana alam mengepung Kabupaten Ciamis. Banjir dan longsor terjadi di beberapa titik akibat adanya hujan deras",
+       "urlNews":"https://www.detik.com/jabar/berita/d-6701129/banjir-dan-longsor-kepung-kabupaten-ciamis",
        "imageBerita":"https://awsimages.detik.net.id/customthumb/2008/07/19/10/hancur-dalem.jpg?w=700&q=90"
       
     },
     {
        "idBerita":2,
        "namaBerita":"Meningkatnya kasus covid-19 varian baru",
+       "deskripsiNews":"Juru Bicara Kementerian Kesehatan (Kemenkes) RI dr. Mohammad Syahril mengumumkan tambahan kasus COVID-19 sub varian Arcturus atau XBB 1.16, Senin (17/4) di kantor Kemenkes. Ada 5 kasus tambahan sehingga total mencapai 7 kasus.",
+       "urlNews":"https://sehatnegeriku.kemkes.go.id/baca/rilis-media/20230418/5442797/kasus-covid-19-sub-varian-arcturus-bertambah/",
        "imageBerita":"https://www.pekanbaru.go.id/berkas_file/news/15082022/23674-news-kasus-covid-19-menin.jpeg"
       
     },
     {
        "idBerita":3,
        "namaBerita":"Banyaknya Kebakaran hutan akibat musim kemarau",
+       "deskripsiNews":"Luas areal kebakaran hutan dan lahan (karhutla) di Indonesia sepanjang 2021 meningkat dibandingkan pada 2020. Berdasarkan data Kementerian Lingkungan Hidup dan Kehutanan (KLHK), hutan dan lahan yang terbakar di Indonesia mencapai 354.582 hektare (ha) atau mengalami peningkatan 19,4% dibandingkan 296.942 ha pada 2020.",
+       "urlNews":"https://databoks.katadata.co.id/datapublish/2022/01/11/luas-kebakaran-hutan-dan-lahan-ri-bertambah-19-pada-2021",
        "imageBerita":"https://i0.wp.com/gapki.id/allies/uploads/2016/06/dishut.sultengprov.go_.idviakebakaran-hutan.jpg?fit=800%2C435&ssl=1"
       
     }
