@@ -28,7 +28,11 @@
   
   "profile":[ 
     {
-       "name": "typicode"
+       "nameProfile": "Balmond",
+       "email":"balmond123@gmail.com",
+       "noTelp":"0812453768",
+       "status":"Suka curi turtle orang",
+       "imageProfile":"https://i.pinimg.com/originals/29/30/84/2930841506e55e0f98ccecf59376e8e0.jpg"
     }
   ],
   
